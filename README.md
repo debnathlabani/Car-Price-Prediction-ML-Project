@@ -39,12 +39,14 @@ Attributes
 24. citympg - Mileage in city
 25. highwaympg - Mileage on highway
 26. Price( Dependent Variable) - Price of car
+    
 Objective
 You are required to model the prices of cars with the available independent variables. It will be
 used by management to understand how exactly the prices vary with the independent variables.
 They can accordingly manipulate the design of the cars, the business strategy etc. to meet
 certain price levels. Further, the model will be good for management to understand the pricing
 dynamics of the new market.
+
 Questions -
 Step 1 : Understand the Business Problem.
 Step 2 : Import all the libraries and set up all the requirements that you will need.
